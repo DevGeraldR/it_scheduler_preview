@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/it_scheduler_preview/static/css/main.7bbcc7ab.css",
+    "main.js": "/it_scheduler_preview/static/js/main.fe380caa.js",
+    "static/media/Taskus_logoname.png": "/it_scheduler_preview/static/media/Taskus_logoname.0ba1c7f0eec556b59fb4.png",
+    "static/media/Taskus_logo.png": "/it_scheduler_preview/static/media/Taskus_logo.66ea0329dd4b25190f96.png",
+    "static/media/Taskus_bg.png": "/it_scheduler_preview/static/media/Taskus_bg.9236ee3772c6e82d9660.png",
+    "index.html": "/it_scheduler_preview/index.html",
+    "main.7bbcc7ab.css.map": "/it_scheduler_preview/static/css/main.7bbcc7ab.css.map",
+    "main.fe380caa.js.map": "/it_scheduler_preview/static/js/main.fe380caa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bbcc7ab.css",
+    "static/js/main.fe380caa.js"
+  ]
+}
